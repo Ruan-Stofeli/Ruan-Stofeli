@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/Ruan-Stofeli">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Stofeli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Stofeli&layout=compact&langs_count=6&theme=radical"/>
+   <a href="https://github.com/ruan-stofeli">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-stofeli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-stofeli&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
