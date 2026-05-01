@@ -1,6 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-## Sou apaixonado por dados e automação.
+<br>
+
+Sou apaixonado por dados e programação 🤓
 
  <div>
    <a href="https://github.com/ruan-stofeli">
